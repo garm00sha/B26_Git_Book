@@ -1,5 +1,5 @@
-this is page 2
+This is page 2.
 
-we are ready to commit
+We are ready to commit.
 
-nothing new yet
+Nothing new yet.
