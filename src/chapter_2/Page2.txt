@@ -1,0 +1,4 @@
+13. Count letters(Map). Write a method that accepts a string as an argument. 
+The method counts the number of appearances of each char and return map. 
+The key will be a letter and the value will be a number of appearances in the string.
+See input and output in the example.
